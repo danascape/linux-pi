@@ -14,5 +14,5 @@ module_init(hello_init);
 module_exit(hello_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Saalim Quadri");
+MODULE_AUTHOR("Saalim Quadri <danascape@gmail.com>");
 MODULE_DESCRIPTION("Simple Hello World Module");
